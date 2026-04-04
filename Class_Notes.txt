@@ -184,9 +184,9 @@ Day 1 - 13th Jan. 2024
 					sdfg				-	
 						
 						
-				What is DevOps ???
+What is DevOps ??
 				
-					DevOps is software Development Strategy to promote the collaboration between the teams like Development Team and the Operation Team to achive Continous Development, Continous Integration, Continous Testing, Continous Delivery / Deployment and Continous Monitoring in more automated fashion.
+DevOps is software Development Strategy to promote the collaboration between the teams like Development Team and the Operation Team to achive Continous Development, Continous Integration, Continous Testing, Continous Delivery / Deployment and Continous Monitoring in more automated fashion.
 				
 				
 				
