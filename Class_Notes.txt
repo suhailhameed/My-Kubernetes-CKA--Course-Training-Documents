@@ -47,9 +47,9 @@
 				Unit Testing 	-	Run the Application --
 									Web Application Server  - Tomcat / Nginx
 									
-									openjdk11,Tomcat8.0 --> Tested the Application, and completed Unit Testing   mywebwebapp_Img1
+								openjdk11,Tomcat8.0 --> Tested the Application, and completed Unit Testing   mywebwebapp_Img1
 									
-									Docker --> Build an appln Image - mywebwebapp_Img1(mywebwebapp.war,openjdk11,Tomcat8.0)
+								Docker --> Build an appln Image - mywebwebapp_Img1(mywebwebapp.war,openjdk11,Tomcat8.0)
 									
 				Containerization ::
 				
@@ -65,9 +65,9 @@
 				
 				Docker Engine :::
 	
-					Create Application image 
-					Create Containers 
-					Docker Compose 	-- Docker compose is a tool that is used to run Multiple Containers as a single Service.
+			Create Application image 
+			Create Containers 
+			Docker Compose 	-- Docker compose is a tool that is used to run Multiple Containers as a single Service.
 					
 							Application Service -- created using 3-tier Application Architecture ::
 							
