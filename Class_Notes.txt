@@ -53,8 +53,8 @@
 									
 				Containerization ::
 				
-						It is a process of packaging the Application along with the dependencies. 
-									
+							Containerization is the process of packaging an application together 
+									with its required dependencies into a container image.									
 				Promote the Appln. 
 				
 				QA	Environment		-	mywebwebapp_Img1	& run the application using containers.
