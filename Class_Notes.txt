@@ -77,19 +77,20 @@
 				
 					Container Orchestration Tool :::
 						
-						Docker Swarm 	--Docker Swarm is Docker's native container orchestration tool. 
-						Designed specifically to manage native Docker containers. Ensures continuous 
-						application availability by distributing containers across nodes. If a worker node fails, Docker 							Swarm automatically reschedules its workloads onto healthy nodes.
+						Docker Swarm:-- Docker Swarm is Docker's native container orchestration tool. 
+						It is designed specifically to manage native Docker containers. It ensures continuous 
+						application availability by distributing containers across nodes. If a worker node fails, 
+						Docker Swarm automatically reschedules its workloads onto healthy nodes.
 						It create Replicas of Containers but lacks to provide Auto-Scaling & Load Balancing
 								
 												
 					
 				Kubernetes 				-- Orchestrate the Containers
 			
-				Kubernetes is Open-Source Container Orchestration Tool
-				It is used to Deploy the Micro-Service Based Applications and Services 
-				Used to Achive Continous Deployment without any Downtime
-					Supports Relicas, Auto-Scaling, Load-Balancing
+						Kubernetes is Open-Source Container Orchestration Tool
+						It is used to Deploy the Micro-Service Based Applications and Services 
+			   			It is used to Acheive Continous Deployment without any Downtime.	
+				   	    It supports Replicas, Auto-Scaling, Load-Balancing.
 					
 						10000 Users		50 Replicas of Containers 
 
