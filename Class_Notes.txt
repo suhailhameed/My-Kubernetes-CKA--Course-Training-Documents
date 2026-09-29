@@ -140,7 +140,10 @@
 						
 What is DevOps ??
 				
-DevOps is software Development Strategy to promote the collaboration between the teams like Development Team and the Operation Team to achive Continous Development, Continous Integration, Continous Testing, Continous Delivery / Deployment and Continous Monitoring in more automated fashion.
+					DevOps is software Development Strategy to promote the collaboration between the 
+                    teams like Development Team and the Operation Team to achieve Continuous Development, 
+                    Continuous Integration, Continous Testing, Continous Delivery / Deployment and Continous 
+                    Monitoring in more automated fashion.
 				
 				
 				
@@ -205,11 +208,9 @@ Day 2 - 14th Jan. 2024
 			
 			Core Concepts of Kubernetes ::	
 		
-		
 			Container Registry ::: DockerHub
 			
-			Repository ::: Is a subset of Container Registry
-			
+			Repository ::: Is a subset of Container Registry	
 			
 			Environments ::
 			
@@ -226,39 +227,11 @@ Day 2 - 14th Jan. 2024
 						Worker_Node1	(VM)	Application -- Replicas of Containers 3 Replicas 
 						Worker_Node2	(VM)
 						Worker_Node3	(VM)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 				Prod
 				Kubernetes_Master Node (VM) 	==> Used to define and schedule the Deployments.
 					1	Worker_Node1	(VM)	Application -- Replicas of Containers 3 Replicas 
 					2	Worker_Node2	(VM)
 						
-
-
-
-
-
-
-
-
 				Kubernetes_Master
 					Kubernetes_Master1 
 						Kubernetes_Cluster1
@@ -278,8 +251,6 @@ Day 2 - 14th Jan. 2024
 							Worker_Node1	(VM)
 							Worker_Node2	(VM)						
 							Worker_Node3	(VM)		
-
-
 
 			Terminologies :::
 			
@@ -319,7 +290,6 @@ Day 2 - 14th Jan. 2024
 				
 				5. Execute some Commands only in WorkNodes 
 					- kubeadm join 
-			
 
 		1. Launch the Required VMs in ur Cloud Platform.
 					
