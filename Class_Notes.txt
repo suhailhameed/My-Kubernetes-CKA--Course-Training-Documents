@@ -152,7 +152,8 @@ What is DevOps ??
 					Continous Development 
 							- it is a capability of Development team to do continuous Coding *.java 
 							
-						Use IDEs - Integrated Development Environment - VS Code, Visual Studio, Eclipse, pycharm - can be easily integrated with GIT, Jenkins
+						Use IDEs - Integrated Development Environment - VS Code, Visual Studio, Eclipse, pycharm - 
+                                   can be easily integrated with GIT, Jenkins
 					
 					Continous Integration 
 							Integrated the changes (Artifacts / Images) 
