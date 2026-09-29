@@ -1,51 +1,3 @@
-CKA -
-
-Orientaion - 8:30 - 9:30PM IST 
-
-Main Session - 13th Jan 2024 - 8:30PM - 11:30PM IST
-
-CKA - 
-
-
-LAB Session ::: 
-
-	AWS - VMs
-	
-	GITHUB - account - 
-	
-	
-#######################
-Day 1 - 13th Jan. 2024
-#######################
-	
-	Pre-requisities :::
-	
-		Lab :::
-		
-			AWS Cloud Platform :
-			
-				Create a AWS free tier Account. 12 months 
-					Active Mobile Number
-					Active Email ID 
-					Active Credit/Debit Card - International Transaction enabled.
-					
-					https://aws.amazon.com/console/
-				
-				
-		
-		Class Notes & Documents :		
-					github - Repository 
-					
-					Create github account.					
-					https://github.com/
-					
-					
-		DockerHub :::
-					Container Registry
-					https://hub.docker.com/
-					
-					
-		
 		Introduction to Kubernetes :::
 		
 			Application Builds and Deployments :::
@@ -115,7 +67,7 @@ Day 1 - 13th Jan. 2024
 	
 					Create Application image 
 					Create Containers 
-					Docker Compose 	-- Run Multiple Containers as a single Service.
+					Docker Compose 	-- Docker compose is a toll that is used to run Multiple Containers as a single Service.
 					
 							Application Service -- created using 3-tier Application Architecture ::
 							
