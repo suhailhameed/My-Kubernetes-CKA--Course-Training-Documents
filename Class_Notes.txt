@@ -67,7 +67,7 @@
 	
 					Create Application image 
 					Create Containers 
-					Docker Compose 	-- Docker compose is a toll that is used to run Multiple Containers as a single Service.
+					Docker Compose 	-- Docker compose is a tool that is used to run Multiple Containers as a single Service.
 					
 							Application Service -- created using 3-tier Application Architecture ::
 							
