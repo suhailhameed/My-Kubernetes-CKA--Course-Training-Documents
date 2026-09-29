@@ -81,8 +81,10 @@
 						It is designed specifically to manage native Docker containers. It ensures continuous 
 						application availability by distributing containers across nodes. If a worker node fails, 
 						Docker Swarm automatically reschedules its workloads onto healthy nodes.
-						It create Replicas of Containers but lacks to provide Auto-Scaling & Load Balancing
-								
+						Replicas: Yes — Swarm can run multiple replicas of a service.
+                        Load balancing: Yes — Docker Swarm provides built-in service load balancing.
+                        Auto-scaling: Swarm does not provide Kubernetes-style built-in Horizontal Pod Autoscaling 
+                        (HPA) based on CPU/memory metrics.	
 												
 					
 				Kubernetes 				-- Orchestrate the Containers
